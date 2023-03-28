@@ -1,1 +1,1 @@
-Portfolio Part 2 - TinDog - mock-up website
+Portfolio Part 2 - TinDog - mock-up website using Bootstrap
